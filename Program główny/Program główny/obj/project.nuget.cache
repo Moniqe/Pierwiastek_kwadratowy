@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "huj9BqabsMdFSFTY67bK1l1++8UDlQ3JxrGv0rKE17N0s4FgJ7Q7YYzJWPaNZ+cRpRwDGOU/2kKGs+hXGW5tFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\48793\\Desktop\\studia\\Semestr IV\\Inżynieria oprogramowania_Deja\\Lab4\\Pierwiastek_kwadratowy\\Program główny\\Program główny\\Program główny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\48793\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
