@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings id="65a40bcd-3a2b-4151-99bc-f67116f0fb4b" name="Pierwiastki_równania_kwadratowego" enableDefaultDataCollectors="false" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description><!--_locID_text="Description1"-->Są to domyślne ustawienia testu dla lokalnego przebiegu testu.</Description>
+  <Deployment enabled="false"/>
+</TestSettings>
